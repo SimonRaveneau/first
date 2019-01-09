@@ -1,1 +1,1 @@
-ok
+Tout d'abord les commandes de base :
