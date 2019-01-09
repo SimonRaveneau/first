@@ -1,3 +1,5 @@
+
+
 Tout d'abord les commandes de base :
 
 # 1 - Tu initialises ton dépôt local
@@ -26,3 +28,4 @@ $ git status
 $ git add mon_fichier_1.php mon_fichier_2.php ...
 $ git commit -m"Mon super message de commit"
 $ git push origin master
+
